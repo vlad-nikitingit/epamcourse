@@ -3,5 +3,9 @@ Put a gun against his head
 Pulled the trigger
 Now he's dead
 
+<<<<<<< HEAD
 Written by the Queen
 and Freddy Mercury
+=======
+written by The Queen
+>>>>>>> 1f2d179de1bd86ca94e5eb35f7b5049e6019313d
